@@ -1,7 +1,7 @@
 # GitHub-Intro
 Here is my slide deck for the .git intro workshop - thanks to @nicktikhonov for the material (you're a total legend!)
 
-# This will take you through the basic concepts of .git
+# This will take you through the basic concepts of .git repositories 
 ## Remember there are some amazing resources under [GitHub Guides](http://guides.github.com) & you can do online on demand training in git and GitHub at [GitHub Training](http://training.github.com)
 
 The key thing to remember is that version control is **SUPER** important - so make sure you learn how to do your A B C of git! 
