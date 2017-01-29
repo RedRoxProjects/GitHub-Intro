@@ -16,7 +16,7 @@ The key thing to remember is that version control is **SUPER** important - so ma
 
 * Running ```git commit -m "insert commit message here"``` will save your commit with a handy message to remind you what that commit included, keep it simple & give yourself context - it will help when you have a a large log of commits to look through
 
-* Use ```git reflog --graph --pretty``` to get a nice graphical display in the command line of the change log & commits
+* Use ```git log --graph --pretty``` to get a nice graphical display in the command line of the change log & commits
 
 * The reset option is super helpful & it's useful to know that even undos can be undone with git use the ```--hard``` tag to remove any previously added files from the repository
 
