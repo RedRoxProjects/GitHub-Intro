@@ -18,6 +18,6 @@ The key thing to remember is that version control is **SUPER** important - so ma
 
 * Use ```git log --graph --pretty``` to get a nice graphical display in the command line of the change log & commits
 
-* The reset option is super helpful & it's useful to know that even undos can be undone with git use the ```--hard``` tag to remove any previously added files from the repository
+* The reset option is super helpful & it's useful to know that even undos can be undone with git!
 
 If you have any questions feel free to raise them as an issue on this repository & I will try my best to answer them for you! 
