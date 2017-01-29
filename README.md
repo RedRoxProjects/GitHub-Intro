@@ -6,11 +6,11 @@ Here is my slide deck for the .git intro workshop - thanks to @nicktikhonov for 
 
 The key thing to remember is that version control is **SUPER** important - so make sure you learn how to do your A B C of git! 
 
-**A**dding files to staging is a must or they won't be included in your repo! 
+**Adding** files to staging is a must or they won't be included in your repo! 
 
-**B**ranching is a lifesaver on group projects - so use it!
+**Branching** is a lifesaver on group projects - so use it!
 
-**C**ommit when you want to save your status, if in doubt run ```git status``` to see your current changes & what files you have staged to be committed to the repo. 
+**Commit** when you want to save your status, if in doubt run ```git status``` to see your current changes & what files you have staged to be committed to the repo. 
 
 # Another few handy hints
 
