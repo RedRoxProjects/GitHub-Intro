@@ -1,5 +1,5 @@
 # GitHub-Intro
-This is a repo containing a pdf document of my slide deck for the .git intro workshop - thanks to @nicktikhonov for the material (you're a total legend!) Feel free to download or view this in the browser by clicking the pdf file :octocat: :sparkles:
+This is a repo containing a pdf document of my slide deck for the .git intro workshop - thanks to [@nicktikhonov](http://github.com/nicktikhonov) for the material (you're a total legend!) Feel free to download or view this in the browser by clicking the pdf file :octocat: :sparkles:
 
 # This will take you through the basic concepts of .git repositories 
 ## Remember there are some amazing resources under [GitHub Guides](http://guides.github.com) & you can do online on demand training in git & GitHub at [GitHub Training](http://training.github.com)
