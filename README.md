@@ -1,7 +1,7 @@
 # GitHub-Intro
 This is a repo containing a pdf document of my slide deck for the .git intro workshop - thanks to [@nicktikhonov](http://github.com/nicktikhonov) for the material (you're a total legend!) Feel free to download or view this in the browser by clicking the pdf file :octocat: :sparkles:
 
-Update DECEMBER 2017: I have added different versions of the slides based on where they were presented feel free to view any version but for a general overview view the OG version. :two-hearts:
+Update DECEMBER 2017: I have added different versions of the slides based on where they were presented feel free to view any version but for a general overview view the OG version. :two_hearts:
 
 
 # This will take you through the basic concepts of .git repositories
